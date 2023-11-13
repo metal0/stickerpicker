@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "mypacks.json"
+  ],
+  "homeserver_url": "https://i0.tf"
+}

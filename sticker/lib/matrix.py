@@ -67,7 +67,7 @@ async def load_config(path: str) -> None:
             json.dump({
                 "homeserver": homeserver_url,
                 "user_id": user_id,
-                "access_token": access_token
+                "access_token": access_token,
             }, config_file)
         print(f"Wrote config to {path}")
 

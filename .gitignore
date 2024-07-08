@@ -13,3 +13,4 @@ web/lib/import-map.json
 /*.json
 *.bak
 /build
+sticker-import-cmd.txt
